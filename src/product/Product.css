@@ -12,7 +12,7 @@
 }
 .product__info {
   height: 120px;
-  margin-bottom: 15px;
+  margin-bottom: 40px;
 }
 
 .product__price {
@@ -33,5 +33,5 @@
 }
 .card_img {
   width: 50%;
-  object-fit: contain;
+  object-fit:contain;
 }

@@ -35,9 +35,10 @@ function Home() {
             price={800}
             image={platinum}
             />
-            </div>
+        </div>
             <Price />
         </div>
+      
     )
 }
 
